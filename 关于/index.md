@@ -15,7 +15,7 @@ menu:
 
 如果想支持我一下，这是我的爱发电主页，筹集到的资金都将用于为这个网站做优化。
 
-## [跳转](https://afdian.tv/a/MaxicoLang)
+## [跳转](https://afdian.com/a/MaxicoLang)
 
 很高兴认识你！
 谢谢！
