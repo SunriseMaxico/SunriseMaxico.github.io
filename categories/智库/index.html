@@ -489,3 +489,27 @@
 
     </body>
 </html>
+
+<style>
+   
+  body {
+        -webkit-user-select: none;   
+        -moz-user-select: none;      
+        -ms-user-select: none;       
+        user-select: none;
+      }
+</style>
+
+<script>
+  
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+
+  
+  document.addEventListener('keydown', function(e) {
+    if ((e.ctrlKey || e.metaKey) && e.keyCode === 67) {
+      e.preventDefault();
+    }
+  });
+</script>
