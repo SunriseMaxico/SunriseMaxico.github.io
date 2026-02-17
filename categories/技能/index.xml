@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>技能 on 琅庆茶室</title>
-        <link>https://lanexo.top/categories/%E6%8A%80%E8%83%BD/</link>
+        <link>https://www.lanexo.top/categories/%E6%8A%80%E8%83%BD/</link>
         <description>Recent content in 技能 on 琅庆茶室</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>琅庆</copyright>
-        <lastBuildDate>Sat, 01 Nov 2025 13:30:00 +0800</lastBuildDate><atom:link href="https://lanexo.top/categories/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Nov 2025 13:30:00 +0800</lastBuildDate><atom:link href="https://www.lanexo.top/categories/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows 10 操作系统 版本选择指南</title>
-        <link>https://lanexo.top/p/windows10/</link>
+        <link>https://www.lanexo.top/p/windows10/</link>
         <pubDate>Sat, 01 Nov 2025 13:30:00 +0800</pubDate>
         
-        <guid>https://lanexo.top/p/windows10/</guid>
-        <description>&lt;img src="https://lanexo.top/p/windows10/Windows10.png" alt="Featured image of post Windows 10 操作系统 版本选择指南" /&gt;&lt;p&gt;迄今为止，Windows 10 操作系统已经走过了 10 年的生命周期，微软对其的支持也已结束，但在少数情况下，Windows 11 操作系统的运行状况并不理想，此时，Windows 10 仍然是比较合适的选择。&lt;/p&gt;
+        <guid>https://www.lanexo.top/p/windows10/</guid>
+        <description>&lt;img src="https://www.lanexo.top/p/windows10/Windows10.png" alt="Featured image of post Windows 10 操作系统 版本选择指南" /&gt;&lt;p&gt;迄今为止，Windows 10 操作系统已经走过了 10 年的生命周期，微软对其的支持也已结束，但在少数情况下，Windows 11 操作系统的运行状况并不理想，此时，Windows 10 仍然是比较合适的选择。&lt;/p&gt;
 &lt;h1 id=&#34;windows-10-1511&#34;&gt;Windows 10 1511
 &lt;/h1&gt;&lt;p&gt;Windows 10 1511 版本是 Windows 10 操作系统的第二个发行版本，相较于 1507 (RTM) 而言，1511 的体验已经趋于稳定，而相较于 1607 以后的版本而言，其对旧硬件的优化十分优越。&lt;/p&gt;
 &lt;p&gt;1511 版本的 Windows 10 适合在采用机械硬盘和小运存的旧电脑上运行，据实践，它在这些电脑上的运行状况比 Windows 8.1 还要优越。同时，对于新老软件的兼容性比 Windows 8.1 更强，能运行 Visual Studio Code、新版 WPS Office 等不支持在 Windows 8.1 上运行的新软件。&lt;/p&gt;
@@ -35,11 +35,11 @@
         </item>
         <item>
         <title>Windows 技能｜一劳永逸的禁用 NT QQ 的更新</title>
-        <link>https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/</link>
+        <link>https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/</link>
         <pubDate>Sat, 19 Apr 2025 13:27:15 +0800</pubDate>
         
-        <guid>https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/</guid>
-        <description>&lt;img src="https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/QQ.png" alt="Featured image of post Windows 技能｜一劳永逸的禁用 NT QQ 的更新" /&gt;&lt;p&gt;在QQNT的某个版本更新之后，通过修改 Hosts 禁用 QQ 自动更新提示的方法已不可用。&lt;/p&gt;
+        <guid>https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/</guid>
+        <description>&lt;img src="https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/QQ.png" alt="Featured image of post Windows 技能｜一劳永逸的禁用 NT QQ 的更新" /&gt;&lt;p&gt;在QQNT的某个版本更新之后，通过修改 Hosts 禁用 QQ 自动更新提示的方法已不可用。&lt;/p&gt;
 &lt;p&gt;接下来我将介绍最新的禁用 QQ 自动更新提示的方法。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -49,10 +49,10 @@
 &lt;p&gt;在 &lt;strong&gt;常规&lt;/strong&gt; 选项卡页面中的属性，将 &lt;strong&gt;只读&lt;/strong&gt; 打勾。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001.png&#34;
 	width=&#34;421&#34;
 	height=&#34;581&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001_hu_fcb223e87a2e3ca1.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001_hu_277a6acbf5caf18d.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001_hu_fcb223e87a2e3ca1.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/001_hu_277a6acbf5caf18d.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;full 文件夹的属性页面&#34;
@@ -72,10 +72,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在 &lt;strong&gt;权限&lt;/strong&gt; 选项卡中选择 &lt;strong&gt;禁用继承&lt;/strong&gt; 并确保下方的选框未勾选。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002.png&#34;
 	width=&#34;895&#34;
 	height=&#34;632&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002_hu_e4e85170d38ee968.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002_hu_cc1bcfdf5b239e58.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002_hu_e4e85170d38ee968.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/002_hu_cc1bcfdf5b239e58.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;高级设置，选择禁用继承&#34;
@@ -89,10 +89,10 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;在弹出的窗口中选择 从此对象中&lt;strong&gt;删除所有已继承的权限&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003.png&#34;
 	width=&#34;352&#34;
 	height=&#34;301&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003_hu_28d05b4de9d00b93.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003_hu_a0c553f94c3daa61.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003_hu_28d05b4de9d00b93.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/003_hu_a0c553f94c3daa61.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;选择第二个&#34;
@@ -111,10 +111,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;选择 &lt;strong&gt;禁用继承&lt;/strong&gt; 并确保下方复选框&lt;strong&gt;未勾选&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004.png&#34;
 	width=&#34;895&#34;
 	height=&#34;632&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004_hu_777cabd912d87f12.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004_hu_200693b1d64f641.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004_hu_777cabd912d87f12.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/004_hu_200693b1d64f641.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;选择禁用继承&#34;
@@ -128,10 +128,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;选择 &lt;strong&gt;应用&lt;/strong&gt; ，将会弹出&lt;strong&gt;禁止访问&lt;/strong&gt;的页面。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005.png&#34;
 	width=&#34;892&#34;
 	height=&#34;630&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005_hu_33a44538ad3571ae.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005_hu_db663ce7c90a6e19.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005_hu_33a44538ad3571ae.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/005_hu_db663ce7c90a6e19.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;禁止访问&#34;
@@ -148,10 +148,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;结束名为 &lt;strong&gt;COM Surrogate&lt;/strong&gt; 的进程（仅结束&lt;strong&gt;应用栏目&lt;/strong&gt;的这个进程）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006.png&#34;
 	width=&#34;666&#34;
 	height=&#34;619&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006_hu_5ccd0c20abb26703.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006_hu_26200c5f26d6cefb.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006_hu_5ccd0c20abb26703.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/006_hu_26200c5f26d6cefb.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;任务管理器&#34;
@@ -165,10 +165,10 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;若结束进程后出现下图窗口卡住的问题，请在任务管理器中重新启动文件资源管理器。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007.png&#34;
 	width=&#34;895&#34;
 	height=&#34;632&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007_hu_43a5ee0431d47443.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007_hu_fb0702291c4109.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007_hu_43a5ee0431d47443.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/007_hu_fb0702291c4109.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;若名为 full的高级安全设置 窗口卡住&#34;
@@ -184,10 +184,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;以上步骤结束之后，您和其他任何程序将无法访问此文件夹，QQ也将无法下载更新。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008.png&#34;
 	width=&#34;498&#34;
 	height=&#34;232&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008_hu_b466805b96ff6ec8.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008_hu_432f9d01ee3e336.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008_hu_b466805b96ff6ec8.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/008_hu_432f9d01ee3e336.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;再次打开 full 文件夹显示上图则代表操作成功&#34;
@@ -201,10 +201,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;打开 QQ，选择 设置打开 当有新版本时自动帮我下载并安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009.png&#34;
 	width=&#34;840&#34;
 	height=&#34;731&#34;
-	srcset=&#34;https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009_hu_93a1728a4bee11f8.png 480w, https://lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009_hu_5e9bc24027b5e837.png 1024w&#34;
+	srcset=&#34;https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009_hu_93a1728a4bee11f8.png 480w, https://www.lanexo.top/p/windows-%E6%8A%80%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E7%A6%81%E7%94%A8-nt-qq-%E7%9A%84%E6%9B%B4%E6%96%B0/009_hu_5e9bc24027b5e837.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;选择红色框选范围的内容，将阻止弹出更新&#34;
