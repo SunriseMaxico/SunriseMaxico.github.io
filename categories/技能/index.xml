@@ -18,9 +18,17 @@
 &lt;h1 id=&#34;下载&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://dehoing.com/s/3oS5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;下载&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;祝你快乐！&lt;/p&gt;
-&lt;p&gt;{{if not (.Params.notShowAdsense) }}
-{{ partial &amp;ldquo;adsense.html&amp;rdquo; . }}
-{{ end }}&lt;/p&gt;
+&lt;script async src=&#34;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1137386259443197&#34;
+     crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;ins class=&#34;adsbygoogle&#34;
+     style=&#34;display:block; text-align:center;&#34;
+     data-ad-layout=&#34;in-article&#34;
+     data-ad-format=&#34;fluid&#34;
+     data-ad-client=&#34;ca-pub-1137386259443197&#34;
+     data-ad-slot=&#34;9332587467&#34;&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
 </description>
         </item>
         <item>
