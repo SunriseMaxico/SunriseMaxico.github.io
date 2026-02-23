@@ -18,6 +18,9 @@
 &lt;h1 id=&#34;下载&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://dehoing.com/s/3oS5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;下载&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;祝你快乐！&lt;/p&gt;
+&lt;p&gt;{{if not (.Params.notShowAdsense) }}
+{{ partial &amp;ldquo;adsense.html&amp;rdquo; . }}
+{{ end }}&lt;/p&gt;
 </description>
         </item>
         <item>
